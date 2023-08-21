@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\pryComportamiento\bin\Debug\pryComportamiento.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\pryComportamiento\bin\Debug\pryComportamiento.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\pryComportamiento\bin\Debug\pryComportamiento.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\pryComportamiento\obj\Debug\pryComportamiento.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\pryComportamiento\obj\Debug\pryComportamiento.frmComportamiento.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\pryComportamiento\obj\Debug\pryComportamiento.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\pryComportamiento\obj\Debug\pryComportamiento.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\pryComportamiento\obj\Debug\pryComportamiento.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\pryComportamiento\obj\Debug\pryComportamiento.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\pryComportamiento\obj\Debug\pryComportamiento.pdb
