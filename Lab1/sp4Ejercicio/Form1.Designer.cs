@@ -107,6 +107,7 @@
             this.btnMozoDia.TabIndex = 2;
             this.btnMozoDia.Text = "Mozo del Dia";
             this.btnMozoDia.UseVisualStyleBackColor = true;
+            this.btnMozoDia.Click += new System.EventHandler(this.btnMozoDia_Click);
             // 
             // MozoDia
             // 
