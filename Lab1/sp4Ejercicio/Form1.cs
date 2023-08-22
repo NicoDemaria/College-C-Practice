@@ -150,6 +150,7 @@ namespace sp4Ejercicio
             }
             else
             {
+                MessageBox.Show("Datos correctos.", "Verificacion", MessageBoxButtons.OK, MessageBoxIcon.None);
                 btnMozoDia.Enabled = true;
                 btnTotales.Enabled = true;
             }
@@ -157,6 +158,9 @@ namespace sp4Ejercicio
 
         private void btnMozoDia_Click(object sender, EventArgs e)
         {
+
+
+            MozoDia.Text = "Hola Soy Nico";
             //Los botones de las consultas se ubican en la parte inferior del formulario y son dos, el primero denominado
             //"Mozo del día" deberá determinar qué mozo tiene el mayor importe de venta total, considerando todas las categorías y mostrará su nombre e importe en controles de tipo 'TextBox' o 'Label' ubicados a la derecha del botón.
         }
