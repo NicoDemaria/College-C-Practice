@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\sp4Ejercicio\bin\Debug\sp4Ejercicio.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\sp4Ejercicio\bin\Debug\sp4Ejercicio.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\sp4Ejercicio\bin\Debug\sp4Ejercicio.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\sp4Ejercicio\obj\Debug\sp4Ejercicio.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\sp4Ejercicio\obj\Debug\sp4Ejercicio.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\sp4Ejercicio\obj\Debug\sp4Ejercicio.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\sp4Ejercicio\obj\Debug\sp4Ejercicio.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\sp4Ejercicio\obj\Debug\sp4Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\sp4Ejercicio\obj\Debug\sp4Ejercicio.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\sp4Ejercicio\obj\Debug\sp4Ejercicio.pdb
