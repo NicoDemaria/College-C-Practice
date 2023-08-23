@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\FormColores\bin\Debug\FormColores.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\FormColores\bin\Debug\FormColores.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\FormColores\bin\Debug\FormColores.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\FormColores\obj\Debug\FormColores.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\FormColores\obj\Debug\FormColores.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\FormColores\obj\Debug\FormColores.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\FormColores\obj\Debug\FormColores.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\FormColores\obj\Debug\FormColores.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\FormColores\obj\Debug\FormColores.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\FormColores\obj\Debug\FormColores.pdb
