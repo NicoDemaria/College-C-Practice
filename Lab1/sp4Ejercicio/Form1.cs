@@ -5,6 +5,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -158,31 +159,94 @@ namespace sp4Ejercicio
 
         private void btnMozoDia_Click(object sender, EventArgs e)
         {
+            {
+                int mozoIndex = -1; // Índice del mozo con mayor importe
+                float maxImporte = float.MinValue; // Valor máximo de importe
 
-            
+                for (int row = 0; row < ventas.GetLength(0); row++)
+                {
+                    float importeMozo = 0;
+
+                    for (int col = 0; col < ventas.GetLength(1); col++)
+                    {
+                        importeMozo += ventas[row, col];
+                    }
+
+                    if (importeMozo > maxImporte)
+                    {
+                        maxImporte = importeMozo;
+                        mozoIndex = row;
+                    }
+                }
+
+                if (mozoIndex >= 0)
+                {
+                    string nombreMozo = dataGridView1.Rows[mozoIndex].Cells["Names"].Value.ToString();
+                    MozoDia.Text = "Mozo del Día: " + nombreMozo;
+                    textBoxNombreMozo.Text = maxImporte.ToString("C");
+                }
+                else
+                {
+                    MozoDia.Text = "Mozo del Día: No disponible";
+                    textBoxNombreMozo.Text = "";
+                }
+            }
 
 
 
-         
-            MozoDia.Text = "Hola Soy Nico";
-            
-            
         }
 
         private void btnTotales_Click(object sender, EventArgs e)
         {
+            List<int> totalesComida = new List<int>();
+            List<int> totalesBebiNoAlc = new List<int>();
+            List<int> totalesBebiAlc = new List<int>();
+            List<int> totalesPostre = new List<int>();
 
-            //totales
-            if (btnTotales.Enabled) {
-                int sumador = 0;
+            int importeTotal = 0;
 
-                foreach (int num in ventas)
+            for (int row = 0; row < ventas.GetLength(0); row++)
+            {
+                int totalFila = 0; // Total para la fila actual
+
+                for (int col = 1; col <= 4; col++) // Ignoramos la columna 0 (Names)
                 {
-                    sumador += num;
-                }
-            }
-            
+                    int valor = (int)ventas[row, col - 1]; // Convertir el valor de la celda a int
 
+                    totalFila += valor; // Sumar al total de la fila
+
+                    switch (col)
+                    {
+                        case 1: // Comidas
+                            totalesComida.Add(valor);
+                            break;
+                        case 2: // Bebidas sin alcohol
+                            totalesBebiNoAlc.Add(valor);
+                            break;
+                        case 3: // Bebidas con alcohol
+                            totalesBebiAlc.Add(valor);
+                            break;
+                        case 4: // Postres
+                            totalesPostre.Add(valor);
+                            break;
+                    }
+                }
+
+                importeTotal += totalFila; // Sumar al importe total
+            }
+
+            // Mostrar totales en controles TextBox o Label
+            TotalDia.Text = importeTotal.ToString("C");
+
+            TotalComida.Text = totalesComida.Sum().ToString("C");
+            TotalBebidaNoAlcohol.Text = totalesBebiNoAlc.Sum().ToString("C");
+            TotalBebidaAlcohol.Text = totalesBebiAlc.Sum().ToString("C");
+            TotalPostre.Text = totalesPostre.Sum().ToString("C");
+        }
+
+        private void btnCerrar_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

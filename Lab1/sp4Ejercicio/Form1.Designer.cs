@@ -44,6 +44,7 @@
             this.TotalBebidaAlcohol = new System.Windows.Forms.Label();
             this.TotalPostre = new System.Windows.Forms.Label();
             this.btnCerrar = new System.Windows.Forms.Button();
+            this.textBoxNombreMozo = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -101,7 +102,7 @@
             // 
             // btnMozoDia
             // 
-            this.btnMozoDia.Location = new System.Drawing.Point(12, 308);
+            this.btnMozoDia.Location = new System.Drawing.Point(15, 308);
             this.btnMozoDia.Name = "btnMozoDia";
             this.btnMozoDia.Size = new System.Drawing.Size(80, 23);
             this.btnMozoDia.TabIndex = 2;
@@ -111,7 +112,7 @@
             // 
             // MozoDia
             // 
-            this.MozoDia.Location = new System.Drawing.Point(98, 308);
+            this.MozoDia.Location = new System.Drawing.Point(101, 292);
             this.MozoDia.Name = "MozoDia";
             this.MozoDia.Size = new System.Drawing.Size(100, 20);
             this.MozoDia.TabIndex = 4;
@@ -119,7 +120,7 @@
             // 
             // btnTotales
             // 
-            this.btnTotales.Location = new System.Drawing.Point(12, 337);
+            this.btnTotales.Location = new System.Drawing.Point(15, 342);
             this.btnTotales.Name = "btnTotales";
             this.btnTotales.Size = new System.Drawing.Size(80, 23);
             this.btnTotales.TabIndex = 5;
@@ -130,7 +131,7 @@
             // TotalDia
             // 
             this.TotalDia.AutoSize = true;
-            this.TotalDia.Location = new System.Drawing.Point(98, 342);
+            this.TotalDia.Location = new System.Drawing.Point(12, 380);
             this.TotalDia.Name = "TotalDia";
             this.TotalDia.Size = new System.Drawing.Size(34, 13);
             this.TotalDia.TabIndex = 6;
@@ -186,12 +187,22 @@
             this.btnCerrar.TabIndex = 11;
             this.btnCerrar.Text = "Cerrar";
             this.btnCerrar.UseVisualStyleBackColor = true;
+            this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
+            // 
+            // textBoxNombreMozo
+            // 
+            this.textBoxNombreMozo.Location = new System.Drawing.Point(101, 318);
+            this.textBoxNombreMozo.Name = "textBoxNombreMozo";
+            this.textBoxNombreMozo.Size = new System.Drawing.Size(100, 20);
+            this.textBoxNombreMozo.TabIndex = 12;
+            this.textBoxNombreMozo.Tag = "";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.textBoxNombreMozo);
             this.Controls.Add(this.btnCerrar);
             this.Controls.Add(this.TotalPostre);
             this.Controls.Add(this.TotalBebidaAlcohol);
@@ -230,6 +241,7 @@
         private System.Windows.Forms.Label TotalBebidaAlcohol;
         private System.Windows.Forms.Label TotalPostre;
         private System.Windows.Forms.Button btnCerrar;
+        private System.Windows.Forms.TextBox textBoxNombreMozo;
     }
 }
 
