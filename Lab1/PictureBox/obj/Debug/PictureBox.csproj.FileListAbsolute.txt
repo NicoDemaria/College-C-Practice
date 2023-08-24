@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PictureBox\bin\Debug\PictureBox.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PictureBox\bin\Debug\PictureBox.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PictureBox\bin\Debug\PictureBox.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PictureBox\obj\Debug\PictureBox.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PictureBox\obj\Debug\PictureBox.Imagenes.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PictureBox\obj\Debug\PictureBox.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PictureBox\obj\Debug\PictureBox.pdb
