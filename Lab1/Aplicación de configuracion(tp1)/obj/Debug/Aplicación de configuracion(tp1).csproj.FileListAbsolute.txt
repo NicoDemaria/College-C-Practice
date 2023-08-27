@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Aplicación de configuracion(tp1)\bin\Debug\Aplicación de configuracion(tp1).exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Aplicación de configuracion(tp1)\bin\Debug\Aplicación de configuracion(tp1).exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Aplicación de configuracion(tp1)\bin\Debug\Aplicación de configuracion(tp1).pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Aplicación de configuracion(tp1)\obj\Debug\Aplicación de configuracion(tp1).csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Aplicación de configuracion(tp1)\obj\Debug\Aplicación_de_configuracion_tp1_.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Aplicación de configuracion(tp1)\obj\Debug\Aplicación_de_configuracion_tp1_.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Aplicación de configuracion(tp1)\obj\Debug\Aplicación de configuracion(tp1).csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Aplicación de configuracion(tp1)\obj\Debug\Aplicación de configuracion(tp1).csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Aplicación de configuracion(tp1)\obj\Debug\Aplicación de configuracion(tp1).exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Aplicación de configuracion(tp1)\obj\Debug\Aplicación de configuracion(tp1).pdb
