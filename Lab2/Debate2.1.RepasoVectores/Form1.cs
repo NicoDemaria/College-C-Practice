@@ -31,7 +31,7 @@ namespace Debate2._1.RepasoVectores
                 alumnos[indice] = textBoxNombre.Text;
                 indice++;
                 textBoxNombre.Clear();
-                textBoxNombre.Text = "";
+
                 
             }
             else

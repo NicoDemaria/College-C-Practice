@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Tp2Lab1\bin\Debug\Tp2Lab1.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Tp2Lab1\bin\Debug\Tp2Lab1.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Tp2Lab1\bin\Debug\Tp2Lab1.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Tp2Lab1\obj\Debug\Tp2Lab1.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Tp2Lab1\obj\Debug\Tp2Lab1.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Tp2Lab1\obj\Debug\Tp2Lab1.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Tp2Lab1\obj\Debug\Tp2Lab1.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Tp2Lab1\obj\Debug\Tp2Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Tp2Lab1\obj\Debug\Tp2Lab1.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Tp2Lab1\obj\Debug\Tp2Lab1.pdb

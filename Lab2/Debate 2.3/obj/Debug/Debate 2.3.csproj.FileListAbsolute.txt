@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 2.3\bin\Debug\Debate 2.3.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 2.3\bin\Debug\Debate 2.3.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 2.3\bin\Debug\Debate 2.3.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 2.3\obj\Debug\Debate 2.3.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 2.3\obj\Debug\Debate_2._3.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 2.3\obj\Debug\Debate_2._3.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 2.3\obj\Debug\Debate 2.3.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 2.3\obj\Debug\Debate 2.3.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 2.3\obj\Debug\Debate 2.3.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 2.3\obj\Debug\Debate 2.3.pdb

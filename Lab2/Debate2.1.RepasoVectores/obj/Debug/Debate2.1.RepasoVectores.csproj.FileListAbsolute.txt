@@ -8,3 +8,13 @@ C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate2.1.RepasoVectores\ob
 C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate2.1.RepasoVectores\obj\Debug\Debate2.1.RepasoVectores.csproj.CoreCompileInputs.cache
 C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate2.1.RepasoVectores\obj\Debug\Debate2.1.RepasoVectores.exe
 C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate2.1.RepasoVectores\obj\Debug\Debate2.1.RepasoVectores.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate2.1.RepasoVectores\bin\Debug\Debate2.1.RepasoVectores.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate2.1.RepasoVectores\bin\Debug\Debate2.1.RepasoVectores.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate2.1.RepasoVectores\bin\Debug\Debate2.1.RepasoVectores.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate2.1.RepasoVectores\obj\Debug\Debate2.1.RepasoVectores.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate2.1.RepasoVectores\obj\Debug\Debate2._1.RepasoVectores.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate2.1.RepasoVectores\obj\Debug\Debate2._1.RepasoVectores.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate2.1.RepasoVectores\obj\Debug\Debate2.1.RepasoVectores.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate2.1.RepasoVectores\obj\Debug\Debate2.1.RepasoVectores.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate2.1.RepasoVectores\obj\Debug\Debate2.1.RepasoVectores.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate2.1.RepasoVectores\obj\Debug\Debate2.1.RepasoVectores.pdb
