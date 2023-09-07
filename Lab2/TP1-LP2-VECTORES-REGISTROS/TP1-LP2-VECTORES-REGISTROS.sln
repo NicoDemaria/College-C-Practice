@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP1-LP2-VECTORES-REGISTROS", "TP1-LP2-VECTORES-REGISTROS.csproj", "{014F24C5-9A22-4C89-85B1-4B87E146332C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{014F24C5-9A22-4C89-85B1-4B87E146332C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014F24C5-9A22-4C89-85B1-4B87E146332C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014F24C5-9A22-4C89-85B1-4B87E146332C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014F24C5-9A22-4C89-85B1-4B87E146332C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {753634EA-52D2-4D6E-A1E4-0BED0B8DF3FB}
+	EndGlobalSection
+EndGlobal

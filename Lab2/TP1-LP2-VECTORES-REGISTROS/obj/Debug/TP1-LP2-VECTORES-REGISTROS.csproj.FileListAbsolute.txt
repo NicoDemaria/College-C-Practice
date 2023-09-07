@@ -1,0 +1,11 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\bin\Debug\TP1-LP2-VECTORES-REGISTROS.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\bin\Debug\TP1-LP2-VECTORES-REGISTROS.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\bin\Debug\TP1-LP2-VECTORES-REGISTROS.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\obj\Debug\TP1-LP2-VECTORES-REGISTROS.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\obj\Debug\TP1_LP2_VECTORES_REGISTROS.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\obj\Debug\TP1_LP2_VECTORES_REGISTROS.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\obj\Debug\TP1-LP2-VECTORES-REGISTROS.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\obj\Debug\TP1-LP2-VECTORES-REGISTROS.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\obj\Debug\TP1-LP2-VECTORES-REGISTROS.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\obj\Debug\TP1-LP2-VECTORES-REGISTROS.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\obj\Debug\TP1_LP2_VECTORES_REGISTROS.Acerca.resources
