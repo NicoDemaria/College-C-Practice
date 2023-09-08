@@ -21,15 +21,7 @@ namespace TP1_LP2_VECTORES_REGISTROS
 
 
 
-        public struct RegistroVendedor
-        {
-
-            public int codigo;
-            public string nombre;
-            public decimal sueldo;
-        }
-        int IND = 0;
-        public RegistroVendedor[] Vendedor  = new RegistroVendedor[100];
+        
 
         private void acercaDeToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -46,6 +38,27 @@ namespace TP1_LP2_VECTORES_REGISTROS
         {
             newVendedor formVendedor = new newVendedor();
             formVendedor.ShowDialog();
+            
+
+        }
+
+        private void listaVendedoresToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            listaVendedores listaVendedoresForm = new listaVendedores();
+            listaVendedoresForm.ShowDialog();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Maximized;
+
+        }
+
+        private void consultaDeVendedorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            consultaVendedor consultaVendedor = new consultaVendedor();
+            consultaVendedor.ShowDialog();
+
         }
     }
 

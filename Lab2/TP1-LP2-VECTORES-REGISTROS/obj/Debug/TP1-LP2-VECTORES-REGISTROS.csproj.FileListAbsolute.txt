@@ -9,3 +9,6 @@ C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\
 C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\obj\Debug\TP1-LP2-VECTORES-REGISTROS.exe
 C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\obj\Debug\TP1-LP2-VECTORES-REGISTROS.pdb
 C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\obj\Debug\TP1_LP2_VECTORES_REGISTROS.Acerca.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\obj\Debug\TP1_LP2_VECTORES_REGISTROS.newVendedor.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\obj\Debug\TP1_LP2_VECTORES_REGISTROS.listaVendedores.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\TP1-LP2-VECTORES-REGISTROS\obj\Debug\TP1_LP2_VECTORES_REGISTROS.consultaVendedor.resources

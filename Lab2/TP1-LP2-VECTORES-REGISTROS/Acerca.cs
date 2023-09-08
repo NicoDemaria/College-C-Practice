@@ -15,6 +15,14 @@ namespace TP1_LP2_VECTORES_REGISTROS
         public Acerca()
         {
             InitializeComponent();
+            StartPosition = FormStartPosition.CenterScreen;
+            this.Text = "Acerca de...";
+
+        }
+
+        private void Acerca_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

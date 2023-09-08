@@ -52,11 +52,24 @@
     <Compile Include="Acerca.Designer.cs">
       <DependentUpon>Acerca.cs</DependentUpon>
     </Compile>
+    <Compile Include="consultaVendedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultaVendedor.Designer.cs">
+      <DependentUpon>consultaVendedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="datos.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="listaVendedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listaVendedores.Designer.cs">
+      <DependentUpon>listaVendedores.cs</DependentUpon>
     </Compile>
     <Compile Include="newVendedor.cs">
       <SubType>Form</SubType>
@@ -69,8 +82,17 @@
     <EmbeddedResource Include="Acerca.resx">
       <DependentUpon>Acerca.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="consultaVendedor.resx">
+      <DependentUpon>consultaVendedor.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listaVendedores.resx">
+      <DependentUpon>listaVendedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newVendedor.resx">
+      <DependentUpon>newVendedor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
