@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 4.1. Alternativa - if\bin\Debug\Debate_4._1.Alternativa___if.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 4.1. Alternativa - if\bin\Debug\Debate_4._1.Alternativa___if.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 4.1. Alternativa - if\bin\Debug\Debate_4._1.Alternativa___if.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 4.1. Alternativa - if\obj\Debug\Debate 4.1. Alternativa - if.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 4.1. Alternativa - if\obj\Debug\Debate_4._1.Alternativa___if.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 4.1. Alternativa - if\obj\Debug\Debate_4._1.Alternativa___if.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 4.1. Alternativa - if\obj\Debug\Debate 4.1. Alternativa - if.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 4.1. Alternativa - if\obj\Debug\Debate 4.1. Alternativa - if.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 4.1. Alternativa - if\obj\Debug\Debate_4._1.Alternativa___if.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 4.1. Alternativa - if\obj\Debug\Debate_4._1.Alternativa___if.pdb
