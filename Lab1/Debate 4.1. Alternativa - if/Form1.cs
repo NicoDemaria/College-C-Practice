@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Debate_4._1.Alternativa___if
@@ -17,29 +11,39 @@ namespace Debate_4._1.Alternativa___if
             InitializeComponent();
         }
         int num1 = 0;
-        int num2 = 0;
-        
+      
+        Random r = new Random();
 
         private void button2_Click(object sender, EventArgs e)
         {
-            num1 = Convert.ToInt32(textBox1.Text);
-            num2 = Convert.ToInt32(textBox2.Text);
+            num1 = r.Next(1,7);
+            
 
-            if (num1 > num2)
+            switch (num1)
             {
-                Resultado.Text = "El numero A es mas grande";
-            }
-            else if (num1 == num2)
-            {
-                Resultado.Text = "Los numeros son iguales";
+
+                case 1:
+                 
+                    pictureBox1.Image = Image.FromFile("C:\\Users\\Desktop-PC\\Desktop\\College C# Practice\\Lab1\\Debate 4.1. Alternativa - if\\Resources\\527560a9ce32f-dado1.png");
+                    break;
+                case 2:
+                    pictureBox1.Image = Image.FromFile("C:\\Users\\Desktop-PC\\Desktop\\College C# Practice\\Lab1\\Debate 4.1. Alternativa - if\\Resources\\527560a9d15f6-dado2.png");
+                    break;
+                case 3:
+                    pictureBox1.Image = Image.FromFile("C:\\Users\\Desktop-PC\\Desktop\\College C# Practice\\Lab1\\Debate 4.1. Alternativa - if\\Resources\\527560a9d48bd-dado3.png");
+                    break;
+                case 4:
+                    pictureBox1.Image = Image.FromFile("C:\\Users\\Desktop-PC\\Desktop\\College C# Practice\\Lab1\\Debate 4.1. Alternativa - if\\Resources\\527560a9d7bc5-dado4.png");
+                    break;
+                case 5:
+                    pictureBox1.Image = Image.FromFile("C:\\Users\\Desktop-PC\\Desktop\\College C# Practice\\Lab1\\Debate 4.1. Alternativa - if\\Resources\\527560a9daa7f-dado5.png");
+                    break;
+                case 6:
+                    pictureBox1.Image = Image.FromFile("C:\\Users\\Desktop-PC\\Desktop\\College C# Practice\\Lab1\\Debate 4.1. Alternativa - if\\Resources\\527560a9ddd30-dado6.png");
+                    break;
+
 
             }
-            else
-            {
-                Resultado.Text = "El numero B es mas grande";
-
-            }
-
 
 
 
@@ -48,33 +52,17 @@ namespace Debate_4._1.Alternativa___if
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            button2.Enabled = false;
+            button2.Enabled = true;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            if (textBox1.Text != "" && textBox2.Text != "")
-            {
-                button2.Enabled = true;
-
-            }
-            else
-            {
-                button2.Enabled = false;
-            }
+         
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            if (textBox1.Text != "" && textBox2.Text != "")
-            {
-                button2.Enabled = true;
-
-            }
-            else
-            {
-                button2.Enabled = false;
-            }
+            
         }
     }
 }

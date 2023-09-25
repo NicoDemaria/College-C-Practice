@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Trabajo Práctico Nº 3\bin\Debug\Trabajo Práctico Nº 3.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Trabajo Práctico Nº 3\bin\Debug\Trabajo Práctico Nº 3.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Trabajo Práctico Nº 3\bin\Debug\Trabajo Práctico Nº 3.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Trabajo Práctico Nº 3\obj\Debug\Trabajo Práctico Nº 3.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Trabajo Práctico Nº 3\obj\Debug\Trabajo_Práctico_Nº_3.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Trabajo Práctico Nº 3\obj\Debug\Trabajo_Práctico_Nº_3.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Trabajo Práctico Nº 3\obj\Debug\Trabajo Práctico Nº 3.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Trabajo Práctico Nº 3\obj\Debug\Trabajo Práctico Nº 3.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Trabajo Práctico Nº 3\obj\Debug\Trabajo Práctico Nº 3.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Trabajo Práctico Nº 3\obj\Debug\Trabajo Práctico Nº 3.pdb

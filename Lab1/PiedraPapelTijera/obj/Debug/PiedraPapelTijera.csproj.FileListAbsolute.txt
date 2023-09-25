@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.pdb
