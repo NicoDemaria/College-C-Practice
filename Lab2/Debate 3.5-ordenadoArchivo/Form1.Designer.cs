@@ -51,6 +51,7 @@
             this.buttonListarDeudores = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.buttonGenerarReporte = new System.Windows.Forms.Button();
+            this.buttonOrdenar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -242,11 +243,22 @@
             this.buttonGenerarReporte.UseVisualStyleBackColor = true;
             this.buttonGenerarReporte.Click += new System.EventHandler(this.buttonGenerarReporte_Click);
             // 
+            // buttonOrdenar
+            // 
+            this.buttonOrdenar.Location = new System.Drawing.Point(686, 298);
+            this.buttonOrdenar.Name = "buttonOrdenar";
+            this.buttonOrdenar.Size = new System.Drawing.Size(102, 23);
+            this.buttonOrdenar.TabIndex = 19;
+            this.buttonOrdenar.Text = "Ordenar";
+            this.buttonOrdenar.UseVisualStyleBackColor = true;
+            this.buttonOrdenar.Click += new System.EventHandler(this.buttonOrdenar_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.buttonOrdenar);
             this.Controls.Add(this.buttonGenerarReporte);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.buttonListarDeudores);
@@ -300,6 +312,7 @@
         private System.Windows.Forms.Button buttonListarDeudores;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button buttonGenerarReporte;
+        private System.Windows.Forms.Button buttonOrdenar;
     }
 }
 

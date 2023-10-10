@@ -71,5 +71,13 @@ namespace Debate_3._2
             archivoClientes.generarReporte();
             MessageBox.Show("reporte ok");
         }
+
+        private void buttonOrdenar_Click(object sender, EventArgs e)
+        {
+            archivoClientes.ordenarDatos();
+            archivoClientes.listar(dataGridView1);
+
+
+        }
     }
 }

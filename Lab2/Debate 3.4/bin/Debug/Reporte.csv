@@ -1,0 +1,10 @@
+Titulo de ejemplo
+
+Codigo;Nombre;Deuda;Limite
+deudor1;deudor;100;29
+sinDeuda1;sindeuda1;0;1
+deudor2;deudor2;200;10
+
+Total:;;;300
+Cantidad:;;;3
+Promedio:;;;100

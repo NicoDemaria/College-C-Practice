@@ -11,9 +11,102 @@ namespace Debate_3._2
 {
     internal class archivoClientes
     {
-
-
         public string nombreArchivo = "clientes.csv";
+
+
+
+        public struct Clientes {
+            public int Cod;
+            public string name;
+            public decimal deuda;
+
+            public decimal limite;
+
+        }
+
+        public Clientes[] vectorClientes = new Clientes[10000];
+        public int ind = 0;
+
+
+        public void cargarVector()
+        {
+            ind = 0;
+            string datosLeidos = "";
+            string[] vector = new string[4];
+            StreamReader AD = new StreamReader(nombreArchivo);
+
+            datosLeidos = AD.ReadLine();
+
+            while (datosLeidos != null )
+            {
+
+                vector = datosLeidos.Split(';');
+
+                vectorClientes[ind].Cod = Convert.ToInt32(vector[0]);
+                vectorClientes[ind].name = vector[1];
+                vectorClientes[ind].deuda = Convert.ToDecimal(vector[2]);
+                vectorClientes[ind].limite = Convert.ToDecimal(vector[3]);
+
+                datosLeidos = AD.ReadLine();
+                ind++;
+
+            }
+
+            AD.Close();
+            AD.Dispose();
+        }
+        public void ordenarVector()
+        {
+            Clientes aux;
+
+            for (int i = 0; i < ind-1; i++)
+            {
+                for (global::System.Int32 j = 0; j < ind - 1; j++)
+                {
+                    if (vectorClientes[j].Cod > vectorClientes[j+1].Cod )
+                    {
+                        aux = vectorClientes[j];
+                        vectorClientes[j] = vectorClientes[j + 1];
+                        vectorClientes[j + 1] = aux;
+                    }
+                    
+                }
+            }
+        }
+        public void reescribirVector()
+        {
+            //Abrimos el archivo para que se pueda pisar
+
+            StreamWriter AD = new StreamWriter(nombreArchivo, false);
+            for (int i = 0; i < ind; i++)
+            {
+                AD.Write(vectorClientes[i].Cod);
+                AD.Write(";");
+                AD.Write(vectorClientes[i].name);
+                AD.Write(";");
+                AD.Write(vectorClientes[i].deuda);
+                AD.Write(";");
+                AD.WriteLine(vectorClientes[i].limite);
+
+            }
+            AD.Close();
+            AD.Dispose();
+
+        }
+        public void ordenarDatos()
+        {
+            //pasar datos al vector
+            cargarVector();
+            // ordenar los datos del vector
+            ordenarVector();
+            // luego pasamos los datos ordenados al archivo
+            reescribirVector();
+        }
+            
+        
+
+
+
 
 
         public void grabar(string codigo, string nombre, string deuda, string limite) 
