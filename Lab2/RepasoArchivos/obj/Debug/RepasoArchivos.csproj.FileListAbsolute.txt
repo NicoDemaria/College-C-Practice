@@ -1,0 +1,12 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoArchivos\bin\Debug\RepasoArchivos.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoArchivos\bin\Debug\RepasoArchivos.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoArchivos\bin\Debug\RepasoArchivos.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoArchivos\obj\Debug\RepasoArchivos.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoArchivos\obj\Debug\RepasoArchivos.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoArchivos\obj\Debug\RepasoArchivos.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoArchivos\obj\Debug\RepasoArchivos.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoArchivos\obj\Debug\RepasoArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoArchivos\obj\Debug\RepasoArchivos.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoArchivos\obj\Debug\RepasoArchivos.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoArchivos\obj\Debug\RepasoArchivos.FormAcercaDe.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoArchivos\obj\Debug\RepasoArchivos.FacturasFormaPago.resources
