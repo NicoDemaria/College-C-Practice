@@ -1,0 +1,11 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Actividad-Práctica-2\bin\Debug\Actividad-Práctica-2.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Actividad-Práctica-2\bin\Debug\Actividad-Práctica-2.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Actividad-Práctica-2\bin\Debug\Actividad-Práctica-2.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Actividad-Práctica-2\obj\Debug\Actividad-Práctica-2.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Actividad-Práctica-2\obj\Debug\Actividad_Práctica_2.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Actividad-Práctica-2\obj\Debug\Actividad_Práctica_2.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Actividad-Práctica-2\obj\Debug\Actividad-Práctica-2.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Actividad-Práctica-2\obj\Debug\Actividad-Práctica-2.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Actividad-Práctica-2\obj\Debug\Actividad-Práctica-2.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Actividad-Práctica-2\obj\Debug\Actividad-Práctica-2.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Actividad-Práctica-2\obj\Debug\Actividad_Práctica_2.data.resources

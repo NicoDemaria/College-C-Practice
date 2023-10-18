@@ -384,11 +384,6 @@ namespace Debate_3._2
                 vector = datosLeidos.Split(';');
                 contador++;
                 total = total + Convert.ToDecimal(vector[2]);
-
-
-                
-
-
                 Reporte.Write(vector[0]);
                 Reporte.Write(";");
                 Reporte.Write(vector[1]);
