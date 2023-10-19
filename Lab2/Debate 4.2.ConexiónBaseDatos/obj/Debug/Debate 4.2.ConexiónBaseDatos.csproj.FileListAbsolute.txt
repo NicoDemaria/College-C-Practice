@@ -1,0 +1,11 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\bin\Debug\Debate 4.2.ConexiónBaseDatos.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\bin\Debug\Debate 4.2.ConexiónBaseDatos.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\bin\Debug\Debate 4.2.ConexiónBaseDatos.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\obj\Debug\Debate 4.2.ConexiónBaseDatos.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\obj\Debug\Debate_4._2.ConexiónBaseDatos.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\obj\Debug\Debate_4._2.ConexiónBaseDatos.listaVendedores.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\obj\Debug\Debate_4._2.ConexiónBaseDatos.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\obj\Debug\Debate 4.2.ConexiónBaseDatos.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\obj\Debug\Debate 4.2.ConexiónBaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\obj\Debug\Debate 4.2.ConexiónBaseDatos.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\obj\Debug\Debate 4.2.ConexiónBaseDatos.pdb
