@@ -35,6 +35,7 @@
             this.Deuda = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.labelTotalDeuda = new System.Windows.Forms.Label();
             this.labelCantidad = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.Grilla)).BeginInit();
             this.SuspendLayout();
             // 
@@ -97,11 +98,20 @@
             this.labelCantidad.Size = new System.Drawing.Size(111, 23);
             this.labelCantidad.TabIndex = 17;
             // 
+            // label1
+            // 
+            this.label1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.label1.Location = new System.Drawing.Point(74, 400);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(111, 23);
+            this.label1.TabIndex = 18;
+            // 
             // listaVendedores
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.labelCantidad);
             this.Controls.Add(this.labelTotalDeuda);
             this.Controls.Add(this.buttonListar);
@@ -122,5 +132,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Deuda;
         private System.Windows.Forms.Label labelTotalDeuda;
         private System.Windows.Forms.Label labelCantidad;
+        private System.Windows.Forms.Label label1;
     }
 }

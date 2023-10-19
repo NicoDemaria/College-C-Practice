@@ -30,6 +30,7 @@ namespace Debate_4._2.ConexiónBaseDatos
 
             labelCantidad.Text = claseCliente.cantidadDeudores.ToString();
             labelTotalDeuda.Text = claseCliente.totalDeuda.ToString();
+            label1.Text = claseCliente.promedio.ToString();
         }
     }
 }

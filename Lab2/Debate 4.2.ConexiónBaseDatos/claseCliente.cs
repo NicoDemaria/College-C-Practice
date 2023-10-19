@@ -48,6 +48,13 @@ namespace Debate_4._2.ConexiónBaseDatos
                 return deuda;
             }
         }
+        public decimal promedio
+        {
+            get
+            {
+                return deuda/ cantidad;
+            }
+        }
 
 
         public void listar(DataGridView grilla)
@@ -105,17 +112,24 @@ namespace Debate_4._2.ConexiónBaseDatos
                 deuda = 0;
                 OleDbDataReader dr = cmd.ExecuteReader();
                 grilla.Rows.Clear();
-                while (dr.Read())
 
 
-                    if (Convert.ToInt32(dr[2])  > 0)
-                    {
-                        cantidad++;
-                        grilla.Rows.Add(dr[0], dr[1], dr[2]);
-                        deuda += Convert.ToDecimal(dr[2]);
-                    }
+                if (dr.HasRows)
+                {
+                    while (dr.Read())
 
+
+                        if (Convert.ToInt32(dr[2]) > 0)
+                        {
+                            cantidad++;
+                            grilla.Rows.Add(dr[0], dr[1], dr[2]);
+                            deuda += Convert.ToDecimal(dr[2]);
+                        }
+                }
                 conn.Close();
+
+
+
 
             }
             catch (Exception ex)
