@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.2. Sumando números secuenciales\bin\Debug\Debate_5._2.Sumando_números_secuenciales.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.2. Sumando números secuenciales\bin\Debug\Debate_5._2.Sumando_números_secuenciales.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.2. Sumando números secuenciales\bin\Debug\Debate_5._2.Sumando_números_secuenciales.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.2. Sumando números secuenciales\obj\Debug\Debate 5.2. Sumando números secuenciales.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.2. Sumando números secuenciales\obj\Debug\Debate_5._2.Sumando_números_secuenciales.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.2. Sumando números secuenciales\obj\Debug\Debate_5._2.Sumando_números_secuenciales.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.2. Sumando números secuenciales\obj\Debug\Debate 5.2. Sumando números secuenciales.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.2. Sumando números secuenciales\obj\Debug\Debate 5.2. Sumando números secuenciales.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.2. Sumando números secuenciales\obj\Debug\Debate_5._2.Sumando_números_secuenciales.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.2. Sumando números secuenciales\obj\Debug\Debate_5._2.Sumando_números_secuenciales.pdb

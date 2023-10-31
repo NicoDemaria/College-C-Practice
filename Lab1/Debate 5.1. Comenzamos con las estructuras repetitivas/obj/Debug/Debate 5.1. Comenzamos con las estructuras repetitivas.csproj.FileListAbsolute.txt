@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.1. Comenzamos con las estructuras repetitivas\bin\Debug\Debate_5._1.Comenzamos_con_las_estructuras_repetitivas.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.1. Comenzamos con las estructuras repetitivas\bin\Debug\Debate_5._1.Comenzamos_con_las_estructuras_repetitivas.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.1. Comenzamos con las estructuras repetitivas\bin\Debug\Debate_5._1.Comenzamos_con_las_estructuras_repetitivas.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.1. Comenzamos con las estructuras repetitivas\obj\Debug\Debate 5.1. Comenzamos con las estructuras repetitivas.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.1. Comenzamos con las estructuras repetitivas\obj\Debug\Debate_5._1.Comenzamos_con_las_estructuras_repetitivas.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.1. Comenzamos con las estructuras repetitivas\obj\Debug\Debate_5._1.Comenzamos_con_las_estructuras_repetitivas.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.1. Comenzamos con las estructuras repetitivas\obj\Debug\Debate 5.1. Comenzamos con las estructuras repetitivas.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.1. Comenzamos con las estructuras repetitivas\obj\Debug\Debate 5.1. Comenzamos con las estructuras repetitivas.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.1. Comenzamos con las estructuras repetitivas\obj\Debug\Debate_5._1.Comenzamos_con_las_estructuras_repetitivas.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.1. Comenzamos con las estructuras repetitivas\obj\Debug\Debate_5._1.Comenzamos_con_las_estructuras_repetitivas.pdb

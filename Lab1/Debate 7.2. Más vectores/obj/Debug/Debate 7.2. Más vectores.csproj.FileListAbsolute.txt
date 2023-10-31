@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.2. Más vectores\bin\Debug\Debate_7._2.Más_vectores.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.2. Más vectores\bin\Debug\Debate_7._2.Más_vectores.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.2. Más vectores\bin\Debug\Debate_7._2.Más_vectores.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.2. Más vectores\obj\Debug\Debate 7.2. Más vectores.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.2. Más vectores\obj\Debug\Debate_7._2.Más_vectores.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.2. Más vectores\obj\Debug\Debate_7._2.Más_vectores.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.2. Más vectores\obj\Debug\Debate 7.2. Más vectores.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.2. Más vectores\obj\Debug\Debate 7.2. Más vectores.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.2. Más vectores\obj\Debug\Debate_7._2.Más_vectores.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.2. Más vectores\obj\Debug\Debate_7._2.Más_vectores.pdb

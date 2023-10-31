@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.6. Vector constituido por registros\bin\Debug\Debate_7._6.Vector_constituido_por_registros.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.6. Vector constituido por registros\bin\Debug\Debate_7._6.Vector_constituido_por_registros.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.6. Vector constituido por registros\bin\Debug\Debate_7._6.Vector_constituido_por_registros.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.6. Vector constituido por registros\obj\Debug\Debate 7.6. Vector constituido por registros.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.6. Vector constituido por registros\obj\Debug\Debate_7._6.Vector_constituido_por_registros.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.6. Vector constituido por registros\obj\Debug\Debate_7._6.Vector_constituido_por_registros.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.6. Vector constituido por registros\obj\Debug\Debate 7.6. Vector constituido por registros.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.6. Vector constituido por registros\obj\Debug\Debate 7.6. Vector constituido por registros.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.6. Vector constituido por registros\obj\Debug\Debate_7._6.Vector_constituido_por_registros.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.6. Vector constituido por registros\obj\Debug\Debate_7._6.Vector_constituido_por_registros.pdb

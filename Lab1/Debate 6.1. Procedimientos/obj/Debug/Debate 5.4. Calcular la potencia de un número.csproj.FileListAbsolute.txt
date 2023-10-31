@@ -1,0 +1,20 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.4. Calcular la potencia de un número\bin\Debug\Debate_5._4.Calcular_la_potencia_de_un_número.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.4. Calcular la potencia de un número\bin\Debug\Debate_5._4.Calcular_la_potencia_de_un_número.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.4. Calcular la potencia de un número\bin\Debug\Debate_5._4.Calcular_la_potencia_de_un_número.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.4. Calcular la potencia de un número\obj\Debug\Debate 5.4. Calcular la potencia de un número.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.4. Calcular la potencia de un número\obj\Debug\Debate_5._4.Calcular_la_potencia_de_un_número.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.4. Calcular la potencia de un número\obj\Debug\Debate_5._4.Calcular_la_potencia_de_un_número.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.4. Calcular la potencia de un número\obj\Debug\Debate 5.4. Calcular la potencia de un número.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.4. Calcular la potencia de un número\obj\Debug\Debate 5.4. Calcular la potencia de un número.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.4. Calcular la potencia de un número\obj\Debug\Debate_5._4.Calcular_la_potencia_de_un_número.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.4. Calcular la potencia de un número\obj\Debug\Debate_5._4.Calcular_la_potencia_de_un_número.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 6.1. Procedimientos\bin\Debug\Debate_5._4.Calcular_la_potencia_de_un_número.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 6.1. Procedimientos\bin\Debug\Debate_5._4.Calcular_la_potencia_de_un_número.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 6.1. Procedimientos\bin\Debug\Debate_5._4.Calcular_la_potencia_de_un_número.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 6.1. Procedimientos\obj\Debug\Debate 5.4. Calcular la potencia de un número.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 6.1. Procedimientos\obj\Debug\Debate_5._4.Calcular_la_potencia_de_un_número.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 6.1. Procedimientos\obj\Debug\Debate_5._4.Calcular_la_potencia_de_un_número.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 6.1. Procedimientos\obj\Debug\Debate 5.4. Calcular la potencia de un número.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 6.1. Procedimientos\obj\Debug\Debate 5.4. Calcular la potencia de un número.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 6.1. Procedimientos\obj\Debug\Debate_5._4.Calcular_la_potencia_de_un_número.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 6.1. Procedimientos\obj\Debug\Debate_5._4.Calcular_la_potencia_de_un_número.pdb

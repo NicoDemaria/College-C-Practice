@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.5. Trabajando con dos vectores!!!\bin\Debug\Debate_7._5.Trabajando_con_dos_vectores___.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.5. Trabajando con dos vectores!!!\bin\Debug\Debate_7._5.Trabajando_con_dos_vectores___.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.5. Trabajando con dos vectores!!!\bin\Debug\Debate_7._5.Trabajando_con_dos_vectores___.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.5. Trabajando con dos vectores!!!\obj\Debug\Debate 7.5. Trabajando con dos vectores!!!.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.5. Trabajando con dos vectores!!!\obj\Debug\Debate_7._5.Trabajando_con_dos_vectores___.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.5. Trabajando con dos vectores!!!\obj\Debug\Debate_7._5.Trabajando_con_dos_vectores___.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.5. Trabajando con dos vectores!!!\obj\Debug\Debate 7.5. Trabajando con dos vectores!!!.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.5. Trabajando con dos vectores!!!\obj\Debug\Debate 7.5. Trabajando con dos vectores!!!.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.5. Trabajando con dos vectores!!!\obj\Debug\Debate_7._5.Trabajando_con_dos_vectores___.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.5. Trabajando con dos vectores!!!\obj\Debug\Debate_7._5.Trabajando_con_dos_vectores___.pdb

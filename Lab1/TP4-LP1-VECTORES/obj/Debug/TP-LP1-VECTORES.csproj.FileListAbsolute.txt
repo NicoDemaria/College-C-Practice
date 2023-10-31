@@ -1,0 +1,17 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\bin\Debug\TP-LP1-VECTORES.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\bin\Debug\TP-LP1-VECTORES.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\bin\Debug\TP-LP1-VECTORES.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\obj\Debug\TP-LP1-VECTORES.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\obj\Debug\TP_LP1_VECTORES.AcercaDe.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\obj\Debug\TP_LP1_VECTORES.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\obj\Debug\TP_LP1_VECTORES.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\obj\Debug\TP-LP1-VECTORES.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\obj\Debug\TP-LP1-VECTORES.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\obj\Debug\TP-LP1-VECTORES.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\obj\Debug\TP-LP1-VECTORES.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\obj\Debug\TP_LP1_VECTORES.Nuevo_Empleado.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\obj\Debug\TP_LP1_VECTORES.Listado_General_Empleados.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\obj\Debug\TP_LP1_VECTORES.Listado_por_categoria.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\obj\Debug\TP_LP1_VECTORES.Listado_por_sueldo_mayor.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\obj\Debug\TP_LP1_VECTORES.Busqueda_de_Empleado.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\TP-LP1-VECTORES\obj\Debug\TP_LP1_VECTORES.Consulta_de_datos_de_un_empleado.resources

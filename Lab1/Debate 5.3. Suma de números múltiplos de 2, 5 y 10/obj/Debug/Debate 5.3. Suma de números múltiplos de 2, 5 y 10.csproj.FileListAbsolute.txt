@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.3. Suma de números múltiplos de 2, 5 y 10\obj\Debug\Debate 5.3. Suma de números múltiplos de 2, 5 y 10.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.3. Suma de números múltiplos de 2, 5 y 10\obj\Debug\Debate_5._3.Suma_de_números_múltiplos_de_2__5_y_10.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.3. Suma de números múltiplos de 2, 5 y 10\obj\Debug\Debate_5._3.Suma_de_números_múltiplos_de_2__5_y_10.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.3. Suma de números múltiplos de 2, 5 y 10\obj\Debug\Debate 5.3. Suma de números múltiplos de 2, 5 y 10.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.3. Suma de números múltiplos de 2, 5 y 10\obj\Debug\Debate 5.3. Suma de números múltiplos de 2, 5 y 10.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.3. Suma de números múltiplos de 2, 5 y 10\bin\Debug\Debate_5._3.Suma_de_números_múltiplos_de_2__5_y_10.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.3. Suma de números múltiplos de 2, 5 y 10\bin\Debug\Debate_5._3.Suma_de_números_múltiplos_de_2__5_y_10.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.3. Suma de números múltiplos de 2, 5 y 10\bin\Debug\Debate_5._3.Suma_de_números_múltiplos_de_2__5_y_10.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.3. Suma de números múltiplos de 2, 5 y 10\obj\Debug\Debate_5._3.Suma_de_números_múltiplos_de_2__5_y_10.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 5.3. Suma de números múltiplos de 2, 5 y 10\obj\Debug\Debate_5._3.Suma_de_números_múltiplos_de_2__5_y_10.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debate 5.2. Sumando números secuenciales", "Debate 5.2. Sumando números secuenciales.csproj", "{4D4765F4-9C9F-4330-9CF5-D77A4E99DCAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D4765F4-9C9F-4330-9CF5-D77A4E99DCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4765F4-9C9F-4330-9CF5-D77A4E99DCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4765F4-9C9F-4330-9CF5-D77A4E99DCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4765F4-9C9F-4330-9CF5-D77A4E99DCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {173076E1-F1D6-45B7-AE39-F4AF78810E10}
+	EndGlobalSection
+EndGlobal

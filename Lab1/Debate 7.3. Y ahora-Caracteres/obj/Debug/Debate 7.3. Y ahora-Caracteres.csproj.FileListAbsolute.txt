@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.3. Y ahora-Caracteres\bin\Debug\Debate_7._3.Y_ahora_Caracteres.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.3. Y ahora-Caracteres\bin\Debug\Debate_7._3.Y_ahora_Caracteres.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.3. Y ahora-Caracteres\bin\Debug\Debate_7._3.Y_ahora_Caracteres.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.3. Y ahora-Caracteres\obj\Debug\Debate 7.3. Y ahora-Caracteres.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.3. Y ahora-Caracteres\obj\Debug\Debate_7._3.Y_ahora_Caracteres.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.3. Y ahora-Caracteres\obj\Debug\Debate_7._3.Y_ahora_Caracteres.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.3. Y ahora-Caracteres\obj\Debug\Debate 7.3. Y ahora-Caracteres.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.3. Y ahora-Caracteres\obj\Debug\Debate 7.3. Y ahora-Caracteres.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.3. Y ahora-Caracteres\obj\Debug\Debate_7._3.Y_ahora_Caracteres.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\Debate 7.3. Y ahora-Caracteres\obj\Debug\Debate_7._3.Y_ahora_Caracteres.pdb

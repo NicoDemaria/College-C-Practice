@@ -1,0 +1,16 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\bin\Debug\SistemaGestionClientes.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\bin\Debug\SistemaGestionClientes.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\bin\Debug\SistemaGestionClientes.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.SistemaGestionClientes.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.AcercaDe.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.agregarCliente.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.BusquedaCliente.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.ListadoClientes.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.ListadoDeudores.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.ConsultaCliente.resources
