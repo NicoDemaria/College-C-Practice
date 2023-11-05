@@ -22,5 +22,17 @@ namespace Debate_4._2.ConexiónBaseDatos
             listaVendedores listaVendedoresForm = new listaVendedores();
             listaVendedoresForm.ShowDialog();
         }
+
+        private void buscarVendedorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Buscar_vendedor buscar_Vendedor = new Buscar_vendedor();
+            buscar_Vendedor.ShowDialog();
+        }
+
+        private void agregarNuevoVendedorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            agregar_Nuevo_cliente nuevoCliente = new agregar_Nuevo_cliente();
+            nuevoCliente.ShowDialog();
+        }
     }
 }

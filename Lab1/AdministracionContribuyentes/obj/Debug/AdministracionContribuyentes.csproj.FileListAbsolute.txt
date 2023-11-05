@@ -1,0 +1,14 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\AdministracionContribuyentes\bin\Debug\AdministracionContribuyentes.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\AdministracionContribuyentes\bin\Debug\AdministracionContribuyentes.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\AdministracionContribuyentes\bin\Debug\AdministracionContribuyentes.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\AdministracionContribuyentes\obj\Debug\AdministracionContribuyentes.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\AdministracionContribuyentes\obj\Debug\AdministracionContribuyentes.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\AdministracionContribuyentes\obj\Debug\AdministracionContribuyentes.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\AdministracionContribuyentes\obj\Debug\AdministracionContribuyentes.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\AdministracionContribuyentes\obj\Debug\AdministracionContribuyentes.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\AdministracionContribuyentes\obj\Debug\AdministracionContribuyentes.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\AdministracionContribuyentes\obj\Debug\AdministracionContribuyentes.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\AdministracionContribuyentes\obj\Debug\AdministracionContribuyentes.Acerca_de.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\AdministracionContribuyentes\obj\Debug\AdministracionContribuyentes.Agrega_nuevo_contribuyente.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\AdministracionContribuyentes\obj\Debug\AdministracionContribuyentes.Listado_general_de_contribuyentes.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\AdministracionContribuyentes\obj\Debug\AdministracionContribuyentes.Consulta_de_datos_de_un_contribuyente.resources

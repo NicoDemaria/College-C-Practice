@@ -32,5 +32,14 @@ namespace Debate_4._2.ConexiónBaseDatos
             labelTotalDeuda.Text = claseCliente.totalDeuda.ToString();
             label1.Text = claseCliente.promedio.ToString();
         }
+
+        private void buttonReporte_Click(object sender, EventArgs e)
+        {
+            claseCliente claseCliente = new claseCliente();
+
+
+            claseCliente.generarReporteClientes();
+            MessageBox.Show("Reporte generado correctamente");
+        }
     }
 }

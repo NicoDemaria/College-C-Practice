@@ -9,3 +9,5 @@ C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDat
 C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\obj\Debug\Debate 4.2.ConexiónBaseDatos.csproj.CoreCompileInputs.cache
 C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\obj\Debug\Debate 4.2.ConexiónBaseDatos.exe
 C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\obj\Debug\Debate 4.2.ConexiónBaseDatos.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\obj\Debug\Debate_4._2.ConexiónBaseDatos.Buscar_vendedor.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.2.ConexiónBaseDatos\obj\Debug\Debate_4._2.ConexiónBaseDatos.agregar_Nuevo_cliente.resources

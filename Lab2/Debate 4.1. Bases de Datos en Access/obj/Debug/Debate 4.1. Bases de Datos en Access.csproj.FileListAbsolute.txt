@@ -1,0 +1,15 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\bin\Debug\Debate_4._1.Bases_de_Datos_en_Access.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\bin\Debug\Debate_4._1.Bases_de_Datos_en_Access.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\bin\Debug\Debate_4._1.Bases_de_Datos_en_Access.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\obj\Debug\Debate 4.1. Bases de Datos en Access.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\obj\Debug\Debate_4._1.Bases_de_Datos_en_Access.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\obj\Debug\Debate_4._1.Bases_de_Datos_en_Access.Listado_todos_los_clientes.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\obj\Debug\Debate_4._1.Bases_de_Datos_en_Access.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\obj\Debug\Debate 4.1. Bases de Datos en Access.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\obj\Debug\Debate 4.1. Bases de Datos en Access.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\obj\Debug\Debate_4._1.Bases_de_Datos_en_Access.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\obj\Debug\Debate_4._1.Bases_de_Datos_en_Access.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\obj\Debug\Debate_4._1.Bases_de_Datos_en_Access.Listar_clientes_deudores.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\obj\Debug\Debate_4._1.Bases_de_Datos_en_Access.BuscarCliente.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\obj\Debug\Debate_4._1.Bases_de_Datos_en_Access.nuevo_cliente.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\Debate 4.1. Bases de Datos en Access\obj\Debug\Debate_4._1.Bases_de_Datos_en_Access.Listado_clientes_de_una_ciudad.resources

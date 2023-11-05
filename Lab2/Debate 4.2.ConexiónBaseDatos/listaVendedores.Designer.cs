@@ -36,6 +36,7 @@
             this.labelTotalDeuda = new System.Windows.Forms.Label();
             this.labelCantidad = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.buttonReporte = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.Grilla)).BeginInit();
             this.SuspendLayout();
             // 
@@ -106,11 +107,22 @@
             this.label1.Size = new System.Drawing.Size(111, 23);
             this.label1.TabIndex = 18;
             // 
+            // buttonReporte
+            // 
+            this.buttonReporte.Location = new System.Drawing.Point(480, 372);
+            this.buttonReporte.Name = "buttonReporte";
+            this.buttonReporte.Size = new System.Drawing.Size(102, 23);
+            this.buttonReporte.TabIndex = 19;
+            this.buttonReporte.Text = "Crear reporte";
+            this.buttonReporte.UseVisualStyleBackColor = true;
+            this.buttonReporte.Click += new System.EventHandler(this.buttonReporte_Click);
+            // 
             // listaVendedores
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.buttonReporte);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.labelCantidad);
             this.Controls.Add(this.labelTotalDeuda);
@@ -133,5 +145,6 @@
         private System.Windows.Forms.Label labelTotalDeuda;
         private System.Windows.Forms.Label labelCantidad;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button buttonReporte;
     }
 }

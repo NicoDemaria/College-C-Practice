@@ -27,12 +27,15 @@ namespace SistemaGestionClientes
             for (int i = 0; i < data.vectorCliente.Length; i++)
             {
 
+
                 if (data.vectorCliente[i].codigo == codigo)
                 {
                     labelConsultaNombre.Text = data.vectorCliente[i].nombre;
-                    labelConsultaDeuda.Text =  data.vectorCliente[i].deuda.ToString();
+                    labelConsultaDeuda.Text = data.vectorCliente[i].deuda.ToString();
                 }
-                
+
+
+
 
 
             }

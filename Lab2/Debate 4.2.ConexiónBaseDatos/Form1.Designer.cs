@@ -36,6 +36,7 @@
             this.agregarNuevoVendedorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.listaVendedoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.consultaDeVendedorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.buscarVendedorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -76,7 +77,8 @@
             this.vendedorToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.agregarNuevoVendedorToolStripMenuItem,
             this.listaVendedoresToolStripMenuItem,
-            this.consultaDeVendedorToolStripMenuItem});
+            this.consultaDeVendedorToolStripMenuItem,
+            this.buscarVendedorToolStripMenuItem});
             this.vendedorToolStripMenuItem.Name = "vendedorToolStripMenuItem";
             this.vendedorToolStripMenuItem.Size = new System.Drawing.Size(69, 20);
             this.vendedorToolStripMenuItem.Text = "Vendedor";
@@ -86,6 +88,7 @@
             this.agregarNuevoVendedorToolStripMenuItem.Name = "agregarNuevoVendedorToolStripMenuItem";
             this.agregarNuevoVendedorToolStripMenuItem.Size = new System.Drawing.Size(205, 22);
             this.agregarNuevoVendedorToolStripMenuItem.Text = "Agregar nuevo vendedor";
+            this.agregarNuevoVendedorToolStripMenuItem.Click += new System.EventHandler(this.agregarNuevoVendedorToolStripMenuItem_Click);
             // 
             // listaVendedoresToolStripMenuItem
             // 
@@ -99,6 +102,13 @@
             this.consultaDeVendedorToolStripMenuItem.Name = "consultaDeVendedorToolStripMenuItem";
             this.consultaDeVendedorToolStripMenuItem.Size = new System.Drawing.Size(205, 22);
             this.consultaDeVendedorToolStripMenuItem.Text = "Consulta de vendedor";
+            // 
+            // buscarVendedorToolStripMenuItem
+            // 
+            this.buscarVendedorToolStripMenuItem.Name = "buscarVendedorToolStripMenuItem";
+            this.buscarVendedorToolStripMenuItem.Size = new System.Drawing.Size(205, 22);
+            this.buscarVendedorToolStripMenuItem.Text = "Buscar vendedor";
+            this.buscarVendedorToolStripMenuItem.Click += new System.EventHandler(this.buscarVendedorToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -125,6 +135,7 @@
         private System.Windows.Forms.ToolStripMenuItem agregarNuevoVendedorToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem listaVendedoresToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem consultaDeVendedorToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem buscarVendedorToolStripMenuItem;
     }
 }
 
