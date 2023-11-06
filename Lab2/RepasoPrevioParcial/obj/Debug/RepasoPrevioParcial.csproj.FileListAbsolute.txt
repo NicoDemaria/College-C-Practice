@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoPrevioParcial\bin\Debug\RepasoPrevioParcial.exe.config
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoPrevioParcial\bin\Debug\RepasoPrevioParcial.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoPrevioParcial\bin\Debug\RepasoPrevioParcial.pdb
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoPrevioParcial\obj\Debug\RepasoPrevioParcial.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoPrevioParcial\obj\Debug\RepasoPrevioParcial.Form1.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoPrevioParcial\obj\Debug\RepasoPrevioParcial.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoPrevioParcial\obj\Debug\RepasoPrevioParcial.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoPrevioParcial\obj\Debug\RepasoPrevioParcial.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoPrevioParcial\obj\Debug\RepasoPrevioParcial.exe
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab2\RepasoPrevioParcial\obj\Debug\RepasoPrevioParcial.pdb

@@ -1,0 +1,30 @@
+Titulo:Al faro, Año:1927, Cantidad:1, Precio:350, Total libros:350
+Titulo:Beloved, Año:1987, Cantidad:1, Precio:452, Total libros:452
+Titulo:Cuentos, Año:siglo XIX, Cantidad:4, Precio:654, Total libros:2616
+Titulo:Cumbres Borrascosas, Año:1847, Cantidad:5, Precio:639, Total libros:3195
+Titulo:El cuaderno dorado, Año:1962, Cantidad:1, Precio:789, Total libros:789
+Titulo:El hombre invisible, Año:1952, Cantidad:9, Precio:321, Total libros:2889
+Titulo:El rey Lear, Año:1608, Cantidad:8, Precio:258, Total libros:2064
+Titulo:El ruido y la furia, Año:1929, Cantidad:5, Precio:741, Total libros:3705
+Titulo:El viejo y el mar, Año:1952, Cantidad:5, Precio:741, Total libros:3705
+Titulo:Grandes Esperanzas, Año:1861, Cantidad:0, Precio:652, Total libros:0
+Titulo:Hamlet, Año:1603, Cantidad:4, Precio:123, Total libros:492
+Titulo:Hijos de la medianoche, Año:1981, Cantidad:0, Precio:654, Total libros:0
+Titulo:Hijos y amantes, Año:1913, Cantidad:0, Precio:321, Total libros:0
+Titulo:Hojas de hierba, Año:1855, Cantidad:8, Precio:125, Total libros:1000
+Titulo:La señora Dalloway, Año:1925, Cantidad:6, Precio:360, Total libros:2160
+Titulo:Las aventuras de Huckleberry Finn, Año:1884, Cantidad:8, Precio:850, Total libros:6800
+Titulo:Lolita, Año:1955, Cantidad:6, Precio:410, Total libros:2460
+Titulo:Los cuentos de Canterbury, Año:siglo XIV, Cantidad:1, Precio:250, Total libros:250
+Titulo:Los viajes de Gulliver, Año:1726, Cantidad:7, Precio:750, Total libros:5250
+Titulo:Middlemarch, Año:1871, Cantidad:8, Precio:985, Total libros:7880
+Titulo:Moby-Dick, Año:1851, Cantidad:5, Precio:365, Total libros:1825
+Titulo:Nostromo, Año:1904, Cantidad:3, Precio:145, Total libros:435
+Titulo:Orgullo y prejuicio, Año:1813, Cantidad:9, Precio:445, Total libros:4005
+Titulo:Otelo, Año:1609, Cantidad:8, Precio:665, Total libros:5320
+Titulo:Todo se desmorona, Año:1958, Cantidad:2, Precio:506, Total libros:1012
+Titulo:Ulises, Año:1922, Cantidad:5, Precio:207, Total libros:1035
+Titulo:Vida y opiniones del caballero Tristram Shandy, Año:1760, Cantidad:4, Precio:804, Total libros:3216
+Titulo:¡Absalom, Absalom!, Año:1936, Cantidad:1, Precio:900, Total libros:900
+Cantidad:  28
+Total: 63805
