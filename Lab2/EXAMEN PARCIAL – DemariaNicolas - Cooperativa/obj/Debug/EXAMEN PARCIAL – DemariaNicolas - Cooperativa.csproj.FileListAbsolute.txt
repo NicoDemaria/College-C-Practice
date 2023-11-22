@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\EXAMEN PARCIAL – DemariaNicolas - Cooperativa\bin\Debug\EXAMEN PARCIAL – DemariaNicolas - Cooperativa.exe.config
+C:\Users\Desktop-PC\Desktop\EXAMEN PARCIAL – DemariaNicolas - Cooperativa\bin\Debug\EXAMEN PARCIAL – DemariaNicolas - Cooperativa.exe
+C:\Users\Desktop-PC\Desktop\EXAMEN PARCIAL – DemariaNicolas - Cooperativa\bin\Debug\EXAMEN PARCIAL – DemariaNicolas - Cooperativa.pdb
+C:\Users\Desktop-PC\Desktop\EXAMEN PARCIAL – DemariaNicolas - Cooperativa\obj\Debug\EXAMEN PARCIAL – DemariaNicolas - Cooperativa.csproj.AssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\EXAMEN PARCIAL – DemariaNicolas - Cooperativa\obj\Debug\EXAMEN_PARCIAL___DemariaNicolas___Cooperativa.Form1.resources
+C:\Users\Desktop-PC\Desktop\EXAMEN PARCIAL – DemariaNicolas - Cooperativa\obj\Debug\EXAMEN_PARCIAL___DemariaNicolas___Cooperativa.Properties.Resources.resources
+C:\Users\Desktop-PC\Desktop\EXAMEN PARCIAL – DemariaNicolas - Cooperativa\obj\Debug\EXAMEN PARCIAL – DemariaNicolas - Cooperativa.csproj.GenerateResource.cache
+C:\Users\Desktop-PC\Desktop\EXAMEN PARCIAL – DemariaNicolas - Cooperativa\obj\Debug\EXAMEN PARCIAL – DemariaNicolas - Cooperativa.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\Desktop\EXAMEN PARCIAL – DemariaNicolas - Cooperativa\obj\Debug\EXAMEN PARCIAL – DemariaNicolas - Cooperativa.exe
+C:\Users\Desktop-PC\Desktop\EXAMEN PARCIAL – DemariaNicolas - Cooperativa\obj\Debug\EXAMEN PARCIAL – DemariaNicolas - Cooperativa.pdb

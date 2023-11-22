@@ -36,5 +36,22 @@ namespace Debate_4._1.Bases_de_Datos_en_Access
             MessageBox.Show("Reporte generado con exito");
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            printDialog1.ShowDialog();
+            printDocument1.PrinterSettings = printDialog1.PrinterSettings;
+            printDocument1.Print();
+            MessageBox.Show("Impresion realizada con exito");
+        }
+
+        private void printDocument1_PrintPage(object sender, System.Drawing.Printing.PrintPageEventArgs e)
+        {
+           claseCliente cliente = new claseCliente();
+
+            cliente.Imprimir(e);
+
+
+        }
     }
 }

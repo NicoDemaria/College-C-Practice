@@ -1,0 +1,4 @@
+Factura:7828, Fecha:4/16/2016 12:00:00 AM, Importe:458.23
+Factura:9858, Fecha:5/25/2016 12:00:00 AM, Importe:607.56
+Cantidad:  2
+Total: 1065.79

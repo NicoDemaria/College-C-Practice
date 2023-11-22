@@ -14,3 +14,10 @@ C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\
 C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.ListadoClientes.resources
 C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.ListadoDeudores.resources
 C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.ConsultaCliente.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.cargaVentas.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.ConsultarVenta.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.AdicionarValor.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.VentaDeUnaSucursal.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.RecorrerFila.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.totalVentasSucursal.resources
+C:\Users\Desktop-PC\Desktop\College C# Practice\Lab1\SistemaGestionClientes\obj\Debug\SistemaGestionClientes.totalPorMes.resources

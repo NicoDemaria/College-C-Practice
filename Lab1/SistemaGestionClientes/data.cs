@@ -24,6 +24,25 @@ namespace SistemaGestionClientes
 
          static public Cliente[] vectorCliente = new Cliente[100];
 
+        public static string[] Meses = new string[12]
+{
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Diciembre"
+};
+
+        public static string[] sucursales = new string[4] { "Sur","Norte","Central","Oriental" };
+
+
 
         //Procedimiento para cargar datos al vector vectorCliente
 

@@ -52,6 +52,12 @@
     <Compile Include="AcercaDe.Designer.cs">
       <DependentUpon>AcercaDe.cs</DependentUpon>
     </Compile>
+    <Compile Include="AdicionarValor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdicionarValor.Designer.cs">
+      <DependentUpon>AdicionarValor.cs</DependentUpon>
+    </Compile>
     <Compile Include="agregarCliente.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,11 +70,23 @@
     <Compile Include="BusquedaCliente.Designer.cs">
       <DependentUpon>BusquedaCliente.cs</DependentUpon>
     </Compile>
+    <Compile Include="cargaVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cargaVentas.Designer.cs">
+      <DependentUpon>cargaVentas.cs</DependentUpon>
+    </Compile>
     <Compile Include="ConsultaCliente.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ConsultaCliente.Designer.cs">
       <DependentUpon>ConsultaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarVenta.Designer.cs">
+      <DependentUpon>ConsultarVenta.cs</DependentUpon>
     </Compile>
     <Compile Include="data.cs" />
     <Compile Include="ListadoClientes.cs">
@@ -83,6 +101,13 @@
     <Compile Include="ListadoDeudores.Designer.cs">
       <DependentUpon>ListadoDeudores.cs</DependentUpon>
     </Compile>
+    <Compile Include="Matriz.cs" />
+    <Compile Include="RecorrerFila.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecorrerFila.Designer.cs">
+      <DependentUpon>RecorrerFila.cs</DependentUpon>
+    </Compile>
     <Compile Include="SistemaGestionClientes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -91,8 +116,29 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="totalPorMes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="totalPorMes.Designer.cs">
+      <DependentUpon>totalPorMes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="totalVentasSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="totalVentasSucursal.Designer.cs">
+      <DependentUpon>totalVentasSucursal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentaDeUnaSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentaDeUnaSucursal.Designer.cs">
+      <DependentUpon>VentaDeUnaSucursal.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="AcercaDe.resx">
       <DependentUpon>AcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdicionarValor.resx">
+      <DependentUpon>AdicionarValor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="agregarCliente.resx">
       <DependentUpon>agregarCliente.cs</DependentUpon>
@@ -100,14 +146,23 @@
     <EmbeddedResource Include="BusquedaCliente.resx">
       <DependentUpon>BusquedaCliente.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="cargaVentas.resx">
+      <DependentUpon>cargaVentas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ConsultaCliente.resx">
       <DependentUpon>ConsultaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarVenta.resx">
+      <DependentUpon>ConsultarVenta.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ListadoClientes.resx">
       <DependentUpon>ListadoClientes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ListadoDeudores.resx">
       <DependentUpon>ListadoDeudores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecorrerFila.resx">
+      <DependentUpon>RecorrerFila.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SistemaGestionClientes.resx">
       <DependentUpon>SistemaGestionClientes.cs</DependentUpon>
@@ -121,6 +176,15 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="totalPorMes.resx">
+      <DependentUpon>totalPorMes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="totalVentasSucursal.resx">
+      <DependentUpon>totalVentasSucursal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentaDeUnaSucursal.resx">
+      <DependentUpon>VentaDeUnaSucursal.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

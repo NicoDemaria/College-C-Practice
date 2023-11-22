@@ -29,16 +29,19 @@
         private void InitializeComponent()
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.Codigo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Deuda = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Ciudad = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Limite = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.buttonListar = new System.Windows.Forms.Button();
             this.buttonReporte = new System.Windows.Forms.Button();
             this.labelTotal = new System.Windows.Forms.Label();
             this.labelCantidad = new System.Windows.Forms.Label();
             this.kabelPromedio = new System.Windows.Forms.Label();
-            this.Limite = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Ciudad = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Deuda = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Codigo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.button1 = new System.Windows.Forms.Button();
+            this.printDialog1 = new System.Windows.Forms.PrintDialog();
+            this.printDocument1 = new System.Drawing.Printing.PrintDocument();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -55,6 +58,31 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(540, 183);
             this.dataGridView1.TabIndex = 0;
+            // 
+            // Codigo
+            // 
+            this.Codigo.HeaderText = "Codigo";
+            this.Codigo.Name = "Codigo";
+            // 
+            // Nombre
+            // 
+            this.Nombre.HeaderText = "Nombre";
+            this.Nombre.Name = "Nombre";
+            // 
+            // Deuda
+            // 
+            this.Deuda.HeaderText = "Deuda";
+            this.Deuda.Name = "Deuda";
+            // 
+            // Ciudad
+            // 
+            this.Ciudad.HeaderText = "Ciudad";
+            this.Ciudad.Name = "Ciudad";
+            // 
+            // Limite
+            // 
+            this.Limite.HeaderText = "Limite";
+            this.Limite.Name = "Limite";
             // 
             // buttonListar
             // 
@@ -103,36 +131,30 @@
             this.kabelPromedio.TabIndex = 5;
             this.kabelPromedio.Text = "label2";
             // 
-            // Limite
+            // button1
             // 
-            this.Limite.HeaderText = "Limite";
-            this.Limite.Name = "Limite";
+            this.button1.Location = new System.Drawing.Point(224, 236);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 36);
+            this.button1.TabIndex = 6;
+            this.button1.Text = "Imprimir";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Ciudad
+            // printDialog1
             // 
-            this.Ciudad.HeaderText = "Ciudad";
-            this.Ciudad.Name = "Ciudad";
+            this.printDialog1.UseEXDialog = true;
             // 
-            // Deuda
+            // printDocument1
             // 
-            this.Deuda.HeaderText = "Deuda";
-            this.Deuda.Name = "Deuda";
-            // 
-            // Nombre
-            // 
-            this.Nombre.HeaderText = "Nombre";
-            this.Nombre.Name = "Nombre";
-            // 
-            // Codigo
-            // 
-            this.Codigo.HeaderText = "Codigo";
-            this.Codigo.Name = "Codigo";
+            this.printDocument1.PrintPage += new System.Drawing.Printing.PrintPageEventHandler(this.printDocument1_PrintPage);
             // 
             // Listado_todos_los_clientes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.kabelPromedio);
             this.Controls.Add(this.labelCantidad);
             this.Controls.Add(this.labelTotal);
@@ -159,5 +181,8 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Deuda;
         private System.Windows.Forms.DataGridViewTextBoxColumn Ciudad;
         private System.Windows.Forms.DataGridViewTextBoxColumn Limite;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.PrintDialog printDialog1;
+        private System.Drawing.Printing.PrintDocument printDocument1;
     }
 }

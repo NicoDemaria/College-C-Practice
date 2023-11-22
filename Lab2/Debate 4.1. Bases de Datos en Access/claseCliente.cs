@@ -12,6 +12,8 @@ using System.Windows.Forms;
 using System.IO;
 using System.Diagnostics;
 using System.Data.Common;
+using System.Drawing.Printing;
+using System.Drawing;   
 
 namespace Debate_4._1.Bases_de_Datos_en_Access
 {
@@ -727,6 +729,47 @@ namespace Debate_4._1.Bases_de_Datos_en_Access
             catch (Exception e)
             {
 
+                MessageBox.Show(e.ToString());
+            }
+        }
+
+        public void Imprimir(PrintPageEventArgs reporte)
+        {
+            try
+            {
+                Font LetraTitulo1 = new Font("Arial", 20);
+                Font LetraTitulo2 = new Font("Arial", 12);
+                Font LetraTexto = new Font("Arial", 8);
+                Int32 f = 200;
+                reporte.Graphics.DrawString("Listado de Clientes",LetraTitulo1,Brushes.Red,100, 100);
+               
+                reporte.Graphics.DrawString("Código", LetraTitulo2,
+               Brushes.Blue, 100, 180);
+                reporte.Graphics.DrawString("Nombre del Clientes",
+               LetraTitulo2, Brushes.Blue, 150, 180);
+                conexion.ConnectionString = CadenaConexion;
+                conexion.Open();
+                command.Connection = conexion;
+                command.CommandType = CommandType.TableDirect;
+                command.CommandText = Tabla;
+                DataSet DS = new DataSet();
+                adaptador = new OleDbDataAdapter(command);
+                adaptador.Fill(DS, Tabla);
+                if (DS.Tables[Tabla].Rows.Count > 0)
+                {
+                    foreach (DataRow fila in DS.Tables[Tabla].Rows)
+                    {
+                        reporte.Graphics.DrawString(fila["IdCliente"].ToString
+                       (), LetraTexto, Brushes.Black, 100, f);
+                        reporte.Graphics.DrawString(fila["Nombre"].ToString(),
+                       LetraTexto, Brushes.Black, 150, f);
+                        f = f + 12;
+                    }
+                }
+                conexion.Close();
+            }
+            catch (Exception e)
+            {
                 MessageBox.Show(e.ToString());
             }
         }
